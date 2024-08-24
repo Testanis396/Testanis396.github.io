@@ -24,8 +24,12 @@ In terms of communication, I have practiced system design, diagramming, and pres
 ![System Design Document](/assets/communication2.png)
 _[repository](https://github.com/Testanis396/CS255/tree/main)_
 
-
 ## Data Structures/Algorithms
+
+In CS320, I created custom classes and services for: Contacts, Tasks, and Appointments. I designed these data structures in addition to JUnit tests. I focused on the functional requirements, using: automated, regression, boundary, and negative testing. Code coverage was a tool that I had heard about, but never understood. I used coverage to ensure that all branches were being appropriately accessed and tested as well. 
+
+![Data Structures](/assets/data1.png)
+_[repository](https://github.com/Testanis396/CS320/tree/main)_
 
 ## Software Engineering/Databases
 
