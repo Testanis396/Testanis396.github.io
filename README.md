@@ -18,7 +18,7 @@ In terms of communication, I have practiced system design, diagramming, and pres
 
 ![Stakeholder Presentation](/assets/communication1.png)
 ![System Design Document](/assets/communication2.png)
-_[repository]_(https://github.com/Testanis396/CS255/tree/main)
+_[repository](https://github.com/Testanis396/CS255/tree/main)_
 
 
 ## Data Structures/Algorithms
