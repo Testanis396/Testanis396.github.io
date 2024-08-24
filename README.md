@@ -7,7 +7,8 @@ I will briefly cover a few topics that will highlight skills that I have gained 
 
 ## Collaboration
 There are two things that immediately come to mind when thinking about collaboration: version control and documentation. When it comes to physically writing code, developing and testing, using git effectively is crucial. I was able to work with git in CS465 and practice using branches and frequent committing to stay organized. 
-!(./assets/collaboration1.png)
+
+!(/assets/collaboration1.png)
 
 ## Communication
 
