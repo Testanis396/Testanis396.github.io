@@ -1,6 +1,6 @@
 Artifact enhancements in app_api folder.
 
-Same artifact as Enhancement1. 
+Same artifact as Enhancement1, original is my finished Enhancement1. 
 Focused on updating the API to create custom fields for user list novels, refactoring CRUD functionality to reflect list Schema changes, implemening .put request routes, and desiging /novels/search route to query the novels collection. 
 
 Lists schema updated include novels reference ID's, status, rating, and notes. User can check each novel off as "Completed", or "To Read", rate novel from 1-5, and attach notes about each title. 
