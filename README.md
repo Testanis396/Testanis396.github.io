@@ -33,7 +33,7 @@ _[repository](https://github.com/Testanis396/CS320/tree/main)_
 
 ## Software Engineering/Databases
 
-I am proud of my work in CS330 to create a 3d scene. I was able to demonstrate my skills with a lower level language, while also leveraging my math background to implement low-poly shapes. I used formulaes to manually create circles with over twenty vertices, properly connecting and shading, resulting in objects such as: Spheres, Toruses, Cylinders, and Hexaganol/Rectagonal Prisms. My Linear Algebra and Multivariable Calculus background was especially helpful in dealing with vectors. 
+I am proud of my work in CS330 to create a 3d scene. I was able to demonstrate my skills with a lower level language, while also leveraging my math background to implement low-poly shapes. I used formulaes to manually create circles with over twenty vertices, properly connecting and shading, resulting in objects such as: Spheres, Toruses, Cylinders, and Hexagonol/Rectagonal Prisms. My Linear Algebra and Multivariable Calculus background was especially helpful in dealing with vectors. 
 
 ![Software Engineering](/assets/software1.png)
 _[repository](https://github.com/Testanis396/CS330-3DScene/tree/main)_
