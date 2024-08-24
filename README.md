@@ -6,4 +6,4 @@ I transferred to Southern New Hampshire University around one year ago, in order
 
 
 
-Code Review YouTube [Link] (https://youtu.be/LcpNidBBbhM)
+Code Review YouTube [Link](https://youtu.be/LcpNidBBbhM)
