@@ -10,7 +10,16 @@ There are two things that immediately come to mind when thinking about collabora
 
 ![Branching](/assets/collaboration1.png)
 
+In terms of documentation, I have practiced system design and diagramming. CS255 sticks out as 
+
 ## Communication
+
+In terms of communication, I have practiced system design, diagramming, and presentations. CS255 was an interesting class where I learned not only how to analyze systems, but also how to graphically illustrate them in meaningful ways. These two skills combine to provide powerful tools for communicating with stakeholders. 
+
+![Stakeholder Presentation](/assets/communication1.png)
+![System Design Document](/assets/communication2.png)
+
+
 
 ## Data Structures/Algorithms
 
