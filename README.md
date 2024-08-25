@@ -72,11 +72,9 @@ _[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
 *   Milestone Two Original [Files](/Enhancement1/Estanislao3-2Original.zip)
 *   Milestone Two Enhanced [Files](/Enhancement1/Estanislao3-2Enhance1.zip)
 *   Milestone Two Narrative [Doc](/Enhancement1/Estanislao3-2MilestoneTwoNarrative.docx)
-  
 *   Milestone Three Original [Files](/Enhancement2/Estanislao4-2Original.zip)
 *   Milestone Three Enhanced [Files](/Enhancement2/Estanislao4-2Enhance2.zip)
 *   Milestone Three Narrative [Doc](/Enhancement2/Estanislao4-2MilestoneThreeNarrative.docx)
-  
 *   Milestone Four Original [Files]()
 *   Milestone Four Enhanced [Files]()
 *   Milestone Four Narrative [Doc]()
