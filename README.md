@@ -72,9 +72,9 @@ However, I did not think that focusing so heavily on an existing project- from a
 
 The fullstack web-app is for managing and displaying vacation packages on a website. The web-scraper processes publically available web novel information from [Royal Road](https://www.royalroad.com/fictions/search?) into a JSON file. Through each enhancement, the goal was to focus on re-designing the api to meaningfully interact with a new dataset- emulating the use case of a personal reading list. 
 
-original fullstack _[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
+- Original fullstack _[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
 
-original web scraper _[repository](https://github.com/Testanis396/WebScraper/tree/main)_
+- Original web scraper _[repository](https://github.com/Testanis396/WebScraper/tree/main)_
 
 ### Portfolio Items 
 
