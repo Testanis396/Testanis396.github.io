@@ -39,11 +39,16 @@ I am proud of my work in CS330 to create a 3d scene. I was able to demonstrate m
 _[repository](https://github.com/Testanis396/CS330-3DScene/tree/main)_
 
 In CS340 I interacted with MongoDB for the first time, building an interative dashboard to visualize data. I was impressed by how easy it was to set up these tools and frameworks, while also excited to create custom queries and practice some UI/UX skills. This was one of the first projects where I considered pursuing a career and further education dealing with data. 
+
 ![Software Engineering](/assets/software2.png)
 _[repository](https://github.com/Testanis396/CS340/tree/main)_
 
 ## Security
 
+CS305 was a fun class where I learned about vulnerabilties and certificates. I learned about tools like OWASP dependency check and Synk, while researching on the practice of protecting HTTP communications. 
+
+![Security](/assets/security1.png)
+_[repository](https://github.com/Testanis396/CS305/tree/main)_
 
 
 
