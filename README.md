@@ -70,7 +70,7 @@ When brainstorming ideas for artifact selection and enhancement, I was uncertain
 
 However, I did not think that focusing so heavily on an existing project- from a previous class- was overly meaningful to a capstone project. Thus, I decided to combine this artifact with a small personal project of mine: a web scraper. This would cover different aspects of _Data_ collection and manipulation, while re-designing the api to interface with a new database would require new _Data Structures_ and _System Design_. Combining these artifacts provides an opportunity to demonstrate skills in a common responsibility of backend developers, while also exploring how to work with data. 
 
-The fullstack web-app is for managing and displaying vacation packages on a website. The web-scraper processes publically available web novel information from (Royal Road)[https://www.royalroad.com/fictions/search?] into a JSON file. Through each enhancement, the goal was to focus on re-designing the api to meaningfully interact with a new dataset- emulating the use case of a personal reading list. 
+The fullstack web-app is for managing and displaying vacation packages on a website. The web-scraper processes publically available web novel information from [Royal Road](https://www.royalroad.com/fictions/search?) into a JSON file. Through each enhancement, the goal was to focus on re-designing the api to meaningfully interact with a new dataset- emulating the use case of a personal reading list. 
 
 original fullstack _[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
 original web scraper _[repository](https://github.com/Testanis396/WebScraper/tree/main)_
