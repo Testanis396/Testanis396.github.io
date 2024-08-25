@@ -66,15 +66,11 @@ _[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
 
 ### Artifact Summary
 
-When brainstorming ideas for artifact selection and enhancement, I was uncertain of the idea of choosing three seperate artifacts. Although I understood the reasoning behind the three main categories, I had a hard time imagining how to focus in on each one. My thought process was that each of these three areas are so interconnected— if not all within a single app or service, then definitely within an entire project. This led me to re-visisting my CS465 fullstack web-app. It already incorperates all three categories, so it was easy visualize potential enhancements: expanding the API, re-designing the Models, and manipulating the Data. This original artifact is a type of project that I want to gain much more familiarity with and build upon. 
+When brainstorming ideas for artifact selection and enhancement, I was uncertain of the idea of choosing three seperate artifacts. Although I understood the reasoning behind the three main categories, I had a hard time imagining how to focus in on each one. My thought process was that each of these three areas are so interconnected— if not all within a single app or service, then definitely within an entire project. This led me to re-visisting my CS465 fullstack [web-app](https://github.com/Testanislao/cs465-fullstack/tree/main). It already incorperates all three categories, so it was easy visualize potential enhancements: expanding the API, re-designing the Models, and manipulating the Data. This original artifact is a type of project that I want to gain much more familiarity with and build upon. 
 
-However, I did not think that focusing so heavily on an existing project- from a previous class- was overly meaningful to a capstone project. Thus, I decided to combine this artifact with a small personal project of mine: a web scraper. This would cover different aspects of _Data_ collection and manipulation, while re-designing the api to interface with a new database would require new _Data Structures_ and _System Design_. Combining these artifacts provides an opportunity to demonstrate skills in a common responsibility of backend developers, while also exploring how to work with data. 
+However, I did not think that focusing so heavily on an existing project- from a previous class- was overly meaningful to a capstone project. Thus, I decided to combine this artifact with a small personal project of mine: a web [scraper](https://github.com/Testanis396/WebScraper/tree/main). This would cover different aspects of _Data_ collection and manipulation, while re-designing the api to interface with a new database would require new _Data Structures_ and _System Design_. Combining these artifacts provides an opportunity to demonstrate skills in a common responsibility of backend developers, while also exploring how to work with data. 
 
 The fullstack web-app is for managing and displaying vacation packages on a website. The web-scraper processes publically available web novel information from [Royal Road](https://www.royalroad.com/fictions/search?) into a JSON file. Through each enhancement, the goal was to focus on re-designing the api to meaningfully interact with a new dataset- emulating the use case of a personal reading list. 
-
-- Original fullstack _[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
-
-- Original web scraper _[repository](https://github.com/Testanis396/WebScraper/tree/main)_
 
 ### Portfolio Items 
 
