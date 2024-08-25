@@ -89,7 +89,7 @@ The fullstack web-app is for managing and displaying vacation packages on a webs
 *   Milestone Four
     *   Original [Files](/Enhancement3/Estanislao5-2Original.zip)
     *   Enhanced [Files](/Enhancement3/Estanislao5-2Enhance3.zip)
-    *   Narrative [Doc]()
+    *   Narrative [Doc](/Enhancement3/Estanislao5-2MilestoneFourNarrative.docx)
     *   Enhancement Review [Video](https://youtu.be/r_Ut86hPLD4)
 
 
