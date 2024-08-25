@@ -52,7 +52,16 @@ _[repository](https://github.com/Testanis396/CS305/tree/main)_
 
 CS465 focused more on authentication middleware, and how tokens could be used to prevent unauthorized API calls. I incorporated these skills within my project enhancements. 
 
-![Security](/assets/security2.png)
+```js
+const express = require('express');
+const router = express.Router();
+const { expressjwt: jwt } = require('express-jwt');
+const auth = jwt({
+    secret: process.env.JWT_SECRET,
+    userProperty: 'payload',
+    algorithms: ['HS256']
+});
+```
 _[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
 
 
