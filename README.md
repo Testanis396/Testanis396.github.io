@@ -77,12 +77,15 @@ The fullstack web-app is for managing and displaying vacation packages on a webs
 *  Github Portfolio [Repository](https://github.com/Testanis396/Testanis396.github.io/tree/main)
   
 *   Milestone One Code Review [Link](https://youtu.be/LcpNidBBbhM)
+  
 *   Milestone Two Original [Files](/Enhancement1/Estanislao3-2Original.zip)
 *   Milestone Two Enhanced [Files](/Enhancement1/Estanislao3-2Enhance1.zip)
 *   Milestone Two Narrative [Doc](/Enhancement1/Estanislao3-2MilestoneTwoNarrative.docx)
+  
 *   Milestone Three Original [Files](/Enhancement2/Estanislao4-2Original.zip)
 *   Milestone Three Enhanced [Files](/Enhancement2/Estanislao4-2Enhance2.zip)
 *   Milestone Three Narrative [Doc](/Enhancement2/Estanislao4-2MilestoneThreeNarrative.docx)
+  
 *   Milestone Four Original [Files]()
 *   Milestone Four Enhanced [Files]()
 *   Milestone Four Narrative [Doc]()
