@@ -64,6 +64,10 @@ const auth = jwt({
 ```
 _[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
 
+### Artifact Summary
+
+
+
 ### Portfolio Items 
 
 *  Github Portfolio [Repository](https://github.com/Testanis396/Testanis396.github.io/tree/main)
