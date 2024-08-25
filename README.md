@@ -50,6 +50,11 @@ CS305 was a fun class where I learned about vulnerabilties and certificates. I l
 ![Security](/assets/security1.png)
 _[repository](https://github.com/Testanis396/CS305/tree/main)_
 
+CS465 focused more on authentication middleware, and how tokens could be used to prevent unauthorized API calls. I incorporated these skills within my project enhancements. 
+
+![Security](/assets/security2.png)
+_[repository](https://github.com/Testanislao/cs465-fullstack/tree/main)_
+
 
 
 
