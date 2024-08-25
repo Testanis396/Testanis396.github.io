@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Introduction
 Hello! My name is Tomas Estanislao, and this is my final Capstone project for my BSCS. 
 
